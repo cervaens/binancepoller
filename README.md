@@ -1,4 +1,4 @@
-# currencypoller
+# binancepoller
 
 The goal of having this repository is not (for now) to provide a working application as this would envolve having scripts that would create all the DB schema, this can be added in the future if needed.
 The goal is publish the code and give a global understanding of how it works.
