@@ -1,8 +1,9 @@
 # binancepoller
 
-The goal of having this repository is not (for now) to provide a working application as this would envolve having scripts that would create all the DB schema, this can be added in the future if needed.
-The goal is publish the code and give a global understanding of how it works.
-All decisions, specially code structure were taken considering having a free poller using Google cloud services.
+It polls Binance token prices every minute and alerts a user in slack for certain trends.
+
+The goal of having this repository is not (for now) to provide a working application as this would envolve having scripts that would create all the DB schema, this can be added in the future if needed. The goal is publish the code and give a global understanding of how it works.
+All decisions, specially code structure were taken considering having a free Binance prices poller using Google cloud services.
 
 Below, some table examples to have a better understanding of the DB.
 
